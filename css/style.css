@@ -1,0 +1,34 @@
+.navbar {
+    font-family: 'Rubik', sans-serif;
+}
+
+.jumbotron {
+    padding-top: 6rem;
+    background-color: gainsboro;
+    padding-bottom: 3rem;
+    font-family: 'Rubik', sans-serif;   
+}
+
+#about {
+    padding-bottom: 6rem;
+    font-family: 'Rubik', sans-serif;
+}
+
+#projects {
+    background-color: gainsboro;
+    padding-bottom: 6rem;
+    font-family: 'Rubik', sans-serif;
+}
+
+#contact {
+    font-family: 'Rubik', sans-serif;
+}
+
+#footer {
+    background-color: black;
+    font-family: 'Rubik', sans-serif;
+}
+
+section {
+    padding-top: 5rem;
+}
